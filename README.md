@@ -2,7 +2,7 @@
 
 A complete RTL-to-GDSII implementation of an 8-bit × 8-depth synchronous FIFO using the SKY130 open-source Process Design Kit (PDK) and OpenLane 2.
 
-## Project Overview
+## Project Overview:
 
 This project demonstrates the physical implementation of a digital RTL design, starting from Verilog RTL and progressing through synthesis, floorplanning, placement, clock-tree synthesis, routing, static timing analysis, design-rule checking, layout-versus-schematic verification, and final GDSII generation.
 
